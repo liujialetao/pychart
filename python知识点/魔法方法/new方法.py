@@ -28,3 +28,4 @@ class CapStr(str):
 
 a = CapStr("I love China!")
 print(id(a))
+type()
